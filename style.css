@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color:  #331C0E;;
+    background-color: #67331E;
 }
 
 .wrapper {
@@ -140,4 +140,5 @@ input:checked + label .description{
     height: 40px;
     margin-left: 20px;
     margin-right: 20px;
+    box-shadow:5px 5px 10px 5px;
 }
